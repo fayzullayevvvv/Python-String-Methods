@@ -1,5 +1,5 @@
-text = input('text: ')
+text = input('Text: ')
 
-text = text.isalnum()
+result = text.isalnum()
 
-print(text)   
+print(result)
