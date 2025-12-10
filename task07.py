@@ -1,5 +1,5 @@
-text = input('text: ')
-end = input('end: ')
+text = input('Text: ')
+end = input('End: ')
 
 restult = text.endswith(end)
 
