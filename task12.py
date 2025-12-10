@@ -1,4 +1,4 @@
-text = input('text: ')
+text = input('Text: ')
 
 result = text.title()
 
