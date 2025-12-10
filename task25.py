@@ -1,5 +1,5 @@
 name = input('Ism: ')
 
-result = name.strip().capitalize()
+result = name.strip().title()
 
 print(result)
